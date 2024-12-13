@@ -12,6 +12,7 @@ FirmwareV1.0.0
 
 [SparkFun_ICM-20948_ArduinoLibrary](https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary)
 
+[kalman](https://github.com/mherb/kalman)
 
 ## Cartão SD usado somente para guardar o vídeo de uma das câmeras.
 O controlador V1.0 só possui 1 cartão SD, a princípio acho melhor usá-lo somente para guardar o vídeo
