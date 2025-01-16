@@ -2,7 +2,7 @@
 FirmwareV1.0.0
 
 ## Bibliotecas usadas
-[SD](https://github.com/arduino-libraries/SD)
+[SdFat](https://github.com/greiman/SdFat)
 
 [arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa)
 
